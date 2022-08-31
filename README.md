@@ -5,4 +5,5 @@ Der er sgu ikke meget og sige.
 - Jeg hygger mig bare - Husk det :)
 
 
-https://media.discordapp.net/attachments/919032147753455646/1014602923726086154/MigGrafikS.png
+![MigGrafikS](https://user-images.githubusercontent.com/112574658/187753052-7b6acb1b-8a9b-4e6b-97e5-7113cbd0ea22.png)
+
